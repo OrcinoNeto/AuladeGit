@@ -1,3 +1,4 @@
+Luiza: água-viva
 Digite o nome de uma musica:
 Andre: meu novo mundo
 Lucca: Blurry
@@ -6,4 +7,6 @@ Khalil: It's Another Maze There
 Matheus: Vitamina C
 Lucca: Blurry
 Khalil: Carcass
+Lucca: When the sun hits
+Khalil: Bycicle Race
 Lucca: When the sun hits
