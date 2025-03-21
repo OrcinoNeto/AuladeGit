@@ -1,10 +1,9 @@
 Digite o nome de uma musica:
+Luiza: água-viva
 Andre: meu novo mundo
 Lucca: Blurry
 Khalil: Carcass
 Khalil: It's Another Maze There
 Matheus: Vitamina C
-Lucca: Blurry
-Khalil: Carcass
 Khalil: Bycicle Race
 Lucca: When the sun hits
