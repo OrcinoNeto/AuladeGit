@@ -1,6 +1,6 @@
 Digite o nome de uma musica:
 Luiza: água-viva
-Andre: meu novo mundo
+Andre: meu novo mundo >> VASCO É MELHOR QUE O CORINTHIANS!
 Lucca: Blurry
 Khalil: Carcass
 Khalil: It's Another Maze There
@@ -8,3 +8,4 @@ Matheus: Vitamina C
 Khalil: Bycicle Race
 Lucca: When the sun hits
 Lucca: Before I Forget
+Lucca: Boquinha da garrafa
