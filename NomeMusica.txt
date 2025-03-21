@@ -2,7 +2,4 @@ Digite o nome de uma musica:
 Andre: meu novo mundo
 Lucca: Blurry
 Khalil: Carcass
-<<<<<<< HEAD
 Khalil: It's Another Maze There
-=======
->>>>>>> Andre
