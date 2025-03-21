@@ -2,5 +2,9 @@ Digite o nome de uma musica:
 Andre: meu novo mundo
 Lucca: Blurry
 Khalil: Carcass
+<<<<<<< HEAD
 Khalil: It's Another Maze There
 Khalil: Bycicle Race
+=======
+Lucca: When the sun hits
+>>>>>>> 952fa215daaf14a10069b7cc03c69d26f3a15322
