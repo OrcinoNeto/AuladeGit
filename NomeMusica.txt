@@ -1,6 +1,6 @@
 Digite o nome de uma musica:
 Luiza: água-viva
-Andre: meu novo mundo >> Meu nome é André e eu amo o VASCO
+Andre: meu novo mundo 
 Lucca: Blurry
 Khalil: Carcass
 Khalil: It's Another Maze There
@@ -12,3 +12,7 @@ Lucca: Boquinha da garrafa
 Nicolas: Malandro Demais Vira Bicho - Febre90s,SonoTWS,PumaPJL
 Andre: Como Tudo Deve Ser
 Matheus: Hino do Flamengo
+Lucca: CMND/CTRL
+
+mudança 1
+mudança 2
