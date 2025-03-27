@@ -10,4 +10,10 @@ Lucca: When the sun hits
 Lucca: Before I Forget
 Lucca: Boquinha da garrafa
 Nicolas: Malandro Demais Vira Bicho - Febre90s,SonoTWS,PumaPJL
+<<<<<<< Updated upstream
 Andre: Como Tudo Deve Ser
+=======
+Andre: Como Tudo Deve Ser
+Matheus: Hino do Flamengo
+uhsahhusauhsuhashu
+>>>>>>> Stashed changes
