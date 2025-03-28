@@ -1,12 +1,16 @@
 Digite o nome de uma musica:
 Luiza: água-viva
-Andre: meu novo mundo >> VASCO É MELHOR QUE O CORINTHIANS!
+Andre: meu novo mundo 
 Lucca: Blurry
 Khalil: Carcass
 Khalil: It's Another Maze There
-Matheus: Vitamina C
+Matheus: Vitamina C >> meu nome é Matheus e eu odeio o Flamengo
 Khalil: Bycicle Race
 Lucca: When the sun hits
 Lucca: Before I Forget
 Lucca: Boquinha da garrafa
 Nicolas: Malandro Demais Vira Bicho - Febre90s,SonoTWS,PumaPJL
+Andre: Como Tudo Deve Ser
+Matheus: Hino do Flamengo
+
+mudança 1
